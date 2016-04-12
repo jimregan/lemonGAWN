@@ -1,0 +1,10 @@
+<synset-00020502-n> <http://lexvo.org/ontology#nearlySameAs> <http://data.logainm.ie/place/1375542> .
+# Baile Átha Cliath
+<synset-00005469-n> <http://lexvo.org/ontology#nearlySameAs> <http://data.logainm.ie/place/118005> .
+# Béal Feirste
+<synset-00027744-n> <http://lexvo.org/ontology#nearlySameAs> <http://data.logainm.ie/place/1384607> .
+# Gaillimh
+<synset-00039866-n> <http://lexvo.org/ontology#nearlySameAs> <http://data.logainm.ie/place/1167042> .
+# Luimneach
+<synset-00078800-n> <http://lexvo.org/ontology#nearlySameAs> <http://data.logainm.ie/place/1383828> .
+# Port Láirge
